@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
@@ -114,6 +115,15 @@ function App() {
 
       <div className="ticks"></div>
       <section id="spacer"></section>
+=======
+import './App.css'
+
+function App() {
+
+  return (
+    <>
+     
+>>>>>>> 5398abd58f61b5bb6bb1f3f37652ad023c575dff
     </>
   )
 }

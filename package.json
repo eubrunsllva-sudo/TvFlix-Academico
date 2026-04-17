@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "paises-app",
+=======
+  "name": "tvflix-app",
+>>>>>>> 5398abd58f61b5bb6bb1f3f37652ad023c575dff
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,8 +14,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
+=======
+    "axios": "^1.15.0",
+    "boostrap": "^2.0.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-router-dom": "^7.14.0"
+>>>>>>> 5398abd58f61b5bb6bb1f3f37652ad023c575dff
   },
   "devDependencies": {
     "@eslint/js": "^9.39.4",
